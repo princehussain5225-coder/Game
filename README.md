@@ -1,1 +1,1 @@
-# this is my Game Repository
+# This is my Game Repository
